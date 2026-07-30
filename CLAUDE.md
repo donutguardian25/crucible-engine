@@ -1,6 +1,5 @@
 # CLAUDE.md — Custom C++ Game Engine
 
-
 ---
 
 ## 1. What this project is

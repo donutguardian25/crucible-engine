@@ -1,0 +1,25 @@
+# Build output
+build/
+out/
+bin/
+bin-int/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+cmake_install.cmake
+_deps/
+
+# OS
+Thumbs.db
+.DS_Store
